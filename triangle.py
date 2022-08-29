@@ -1,4 +1,5 @@
-
+print("SHERIN MATHEW ")
+print('21MCA039')
 print("length of the triangle sides:")
 x = int(input("enter the value of x : "))
 y = int(input("enter the value of y: "))

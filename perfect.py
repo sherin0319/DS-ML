@@ -1,3 +1,6 @@
+print("SHERIN MATHEW ")
+print('21MCA039')
+import cmath
 n = int(input("Enter any number: "))
 sum1 = 0
 for i in range(1, n):
